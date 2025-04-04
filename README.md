@@ -24,4 +24,4 @@ This project is licensed under the MIT license
 
 ## Links
 GitHub: https://github.com/beth-em/employee-tracker.git
-Walkthrough Video Link:
+Walkthrough Video Link: https://drive.google.com/file/d/1qyAuxjwcNIwSKdxo_4m8oU0xV1ktihm6/view?usp=drive_link
